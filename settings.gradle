@@ -1,0 +1,3 @@
+rootProject.name='Showname'
+include ':app'
+include ':learnJava'
